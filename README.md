@@ -13,7 +13,7 @@
   <h3>My GitHub Stats</h3>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=MkDriss&show_icons=true&theme=midnight-purple&locale=en" alt="MkDriss" />
 
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f9/512.gif" alt="🛹" width="200" height="200" margin-left="100">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f9/512.gif" alt="🛹" width="200" height="200" margin="100">
 
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MkDriss&theme=midnight-purple" alt="GitHub Streak" />
 </p>
