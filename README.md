@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Driss <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f9/512.gif" alt="🛹" width="32" height="32"/></h1>
+<h1 align="center">Hi 👋, My name is Driss <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f9/512.gif" alt="🛹" width="64" height="64"/></h1>
 
 🌱 I’m **Computer Science** student and welcome to my developer/cyber security journey ! 
 
