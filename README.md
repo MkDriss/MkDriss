@@ -5,6 +5,10 @@
 
 ------------
 
+<div align="center">
+   <img width=100% rotation="180" src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
 <p>
   <h3>My GitHub Stats</h3>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MkDriss&theme=dark" alt="MkDriss" />
@@ -19,6 +23,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MkDriss&show_icons=true&theme=dark&locale=en" alt="MkDriss" />
 </p>
 
-<div align="center">
-   <img width=100% rotation="180" src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
