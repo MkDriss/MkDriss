@@ -17,7 +17,7 @@
      alt="🛹" 
      width="200" 
      height="200" 
-     style="margin-left:200px;" />
+     style="display:flex;justify-content:center" />
 
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MkDriss&theme=midnight-purple" alt="GitHub Streak" />
 </p>
