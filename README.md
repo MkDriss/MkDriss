@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Driss Meskini</h1>
 
-<!--
-**MkDriss/MkDriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Computer Science**
+<br>
 
-Here are some ideas to get you started:
+------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <h3>My GitHub Stats</h3>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MkDriss&theme=dark" alt="MkDriss" />
+  <br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MkDriss&show_icons=true&theme=dark&locale=en&layout=compact" alt="MkDriss" />
+</p>
+
+<br><br><br><br><br><br><br><br>
+
+<p>&nbsp;
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MkDriss&show_icons=true&theme=dark&locale=en" alt="MkDriss" />
+</p>
