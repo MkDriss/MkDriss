@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Driss</h1>
 
-🌱 I’m **Computer Science** student and welcome to my developer/cyber security journey ! 💻
+🌱 I’m **Computer Science** student and welcome to my developer/cyber security journey ! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f9/512.gif" alt="🛹" width="32" height="32" align="right"/>
 <br>
 
 ------------
@@ -13,7 +13,7 @@
   <h3>My GitHub Stats</h3>
    <div>
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=MkDriss&show_icons=true&theme=midnight-purple&locale=en" alt="MkDriss" />
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f9/512.gif" alt="🛹" width="200" height="200" align="right"/>
+      
    </div>
 
    <br>
