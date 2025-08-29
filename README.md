@@ -1,4 +1,4 @@
-<h1 align="center" style="display:flex; justify-content:center; gap:20px">Hi 👋, My name is Driss <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f9/512.gif" alt="🛹" width="64" height="64"/></h1>
+<h1 align="center">Hi 👋, My name is Driss <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f9/512.gif" alt="🛹" width="64" height="64"/></h1>
 
 🌱 I’m **Computer Science** student and welcome to my developer/cyber security journey ! 
 
@@ -17,7 +17,7 @@
    </div>
 </p>
 <p align="center">
-<img align="center" src="https://i.pinimg.com/originals/77/d7/81/77d78134db72b56aa1f07c7ed64c0b6a.gif">
+<img src="https://i.pinimg.com/originals/77/d7/81/77d78134db72b56aa1f07c7ed64c0b6a.gif">
 </p>
 <br><br><br><br><br><br><br><br>
 
