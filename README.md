@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Driss</h1>
 
-🌱 I’m currently learning **Computer Science**
+🌱 I’m **Computer Science** student and welcome to my developper/cyber security journey !
 <br>
 
 ------------
