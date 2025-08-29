@@ -13,7 +13,7 @@
   <h3>My GitHub Stats</h3>
    <div display="flex" > 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MkDriss&show_icons=true&theme=midnight-purple&locale=en" alt="MkDriss" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MkDriss&theme=dark" alt="MkDriss" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MkDriss&theme=midnight-purple" alt="MkDriss" />
    </div>
 </p>
 
