@@ -8,7 +8,7 @@ Hi ! I'm a computer science student and welcome to my software engineer / cyber 
 
 *   🌍  I'm based in France
 *   ✉️  You can contact me at [driss.meskini@outlook.fr](mailto:driss.meskini@outlook.fr)
-*   💬  Ask me about I love skateboarding
+*   ⚡  I love skateboarding
 
 <h2>Badges</h2>
 
