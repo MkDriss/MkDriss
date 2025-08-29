@@ -16,7 +16,7 @@
    <br>
    <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f9/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f9/512.gif" alt="🛹" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f9/512.gif" alt="🛹" width="200" height="200">
 </picture>
 </p>
 
