@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, My name is Driss</h1>
 
-Hi ! I'm a computer science student and welcome to my software engineer / cyber security engineer journey
+Hi ! I'm a computer science student and welcome to my software engineer / cyber security engineer journey ! 💻
 
 *   🌍  I'm based in France
 *   ✉️  You can contact me at [driss.meskini@outlook.fr](mailto:driss.meskini@outlook.fr)
