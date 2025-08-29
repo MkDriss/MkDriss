@@ -16,8 +16,9 @@
       <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MkDriss&theme=midnight-purple" alt="GitHub Streak" />
    </div>
 </p>
-<br><br><br></br>
+<p align="center">
 <img align="center" src="https://i.pinimg.com/originals/77/d7/81/77d78134db72b56aa1f07c7ed64c0b6a.gif">
+</p>
 <br><br><br><br><br><br><br><br>
 
 
