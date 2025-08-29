@@ -12,7 +12,7 @@
 <p>
   <h3>My GitHub Stats</h3>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MkDriss&show_icons=true&theme=midnight-purple&locale=en" alt="MkDriss" />
-   br
+   <br>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MkDriss&theme=midnight-purple" alt="GitHub Streak" />
    
 </p>
