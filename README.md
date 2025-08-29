@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Driss Meskini</h1>
+<h1 align="center">Hi 👋, My name is Driss</h1>
 
 🌱 I’m currently learning **Computer Science**
 <br>
