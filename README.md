@@ -19,9 +19,10 @@
      height="200" 
      style="display:flex;justify-content:center" />
 
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MkDriss&theme=midnight-purple" alt="GitHub Streak" />
 </p>
 
+
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MkDriss&theme=midnight-purple" alt="GitHub Streak" />
 <br><br><br><br><br><br><br><br>
 
 <p>&nbsp;
