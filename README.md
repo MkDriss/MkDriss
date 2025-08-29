@@ -13,7 +13,7 @@
    <div>
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=MkDriss&show_icons=true&theme=midnight-purple&locale=en" alt="MkDriss" />
       <img align="left" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="400" />
+      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="300" />
       <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MkDriss&theme=midnight-purple" alt="GitHub Streak" />
    </div>
 </p>
