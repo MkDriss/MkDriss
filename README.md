@@ -1,7 +1,3 @@
-<div align="center">
-   <img width=100% style="border-radius:10%" src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
-
 <h1 align="center">Hi 👋, My name is Driss</h1>
 
 Hi ! I'm a computer science student and welcome to my software engineer / cyber security engineer journey ! 💻
