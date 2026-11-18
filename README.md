@@ -22,8 +22,6 @@ Hi ! I'm a computer science student and welcome to my software engineer / cyber 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f9/512.gif" alt="🛹" width="48" height="48"/>
 </p>
 
-<div width="100%" align="center"><a href="https://github.com/MkDriss/Project_Parm" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MkDriss&repo=Project_Parm&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div>
-
 <br /><br /><br /><br /><br />
 
 <h2 align="center"> Socials </h2>
